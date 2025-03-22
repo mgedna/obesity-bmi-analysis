@@ -93,7 +93,7 @@ obesity-bmi-analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/obesity-bmi-analysis.git
+   git clone https://github.com/mgedna/obesity-bmi-analysis.git
    cd obesity-bmi-analysis
    ```
 
