@@ -82,7 +82,7 @@ obesity-bmi-analysis/
 ├── data/
 │   └── ObesityDataSet_raw_and_data_sinthetic.csv
 │
-├── Full_Obesity_Analysis.ipynb   # Full Jupyter notebook
+├── Obesity_BMI_Analysis.ipynb   # Full Jupyter notebook
 ├── README.md
 └── requirements.txt
 ```
