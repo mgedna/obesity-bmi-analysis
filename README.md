@@ -114,4 +114,4 @@ obesity-bmi-analysis/
 ## 🧠 Author
 
 Edna Memedula 
-📫 [LinkedIn](www.linkedin.com/in/edna-memedula-24b519245) • [GitHub](https://github.com/mgedna) 
+📫 [LinkedIn](https://www.linkedin.com/in/edna-memedula-24b519245) • [GitHub](https://github.com/mgedna) 
