@@ -106,7 +106,7 @@ obesity-bmi-analysis/
 
 4. Run the Jupyter notebook:
    ```bash
-   jupyter notebook Full_Obesity_Analysis.ipynb
+   jupyter notebook Obesity_BMI_Analysis.ipynb
    ```
 
 ---
